@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="u_what_needed" table="x_58872_needit_needit" version="3">
+        <sys_choice_set action="DELETE">
+            <element>u_what_needed</element>
+            <name>x_58872_needit_needit</name>
+            <sys_class_name/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id/>
+            <sys_mod_count/>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_scope/>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2020-03-04 06:02:17</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application/>
+        <file_path/>
+        <instance_id>aa52180adbc5bf4452cec597059619e7</instance_id>
+        <instance_name>dev83942</instance_name>
+        <name>sys_choice_x_58872_needit_needit_u_what_needed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="DELETE" field="u_what_needed" table="x_58872_needit_needit" version="3"><sys_choice_set action="DELETE"><element>u_what_needed</element><name>x_58872_needit_needit</name><sys_class_name/><sys_created_by/><sys_created_on/><sys_id/><sys_mod_count/><sys_name/><sys_package/><sys_policy/><sys_scope/><sys_update_name/><sys_updated_by/><sys_updated_on>2020-03-04 06:02:17</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-429457270</payload_hash>
+        <record_name>x_58872_needit_needit.u_what_needed</record_name>
+        <reverted_from/>
+        <source>568227e1db5f401058e04782399619cd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-04 06:02:17</sys_created_on>
+        <sys_id>5de09d9adb93001058e04782399619f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170a4233dad0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-04 06:02:17</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>d5e09d9aaa930010fc42b2593d67fef1</update_guid>
+        <update_guid_history>d5e09d9aaa930010fc42b2593d67fef1:-429457270,91e09d9ad3930010d9ef2e3626f387ee:-915848390,11e09d9a8393001014bd6d41cd7677eb:-345076152,9de09d9ab79300102f300bedb396bee7:-1984548295,1de09d9a5d930010c4ed12582a6d98e4:1942117611,99e09d9ac59300100d3da5c49d9ed3e1:747542262,19e09d9a72930010169c39cf4d4e3ade:474554642,5cdbd7793397801028b510bd6ebcdde5:240159249</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-04 06:02:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>e3e011dadb93001058e04782399619bb</sys_id>
+        <sys_metadata>e3e011dadb93001058e04782399619bb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_what_needed</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_choice_x_58872_needit_needit_u_what_needed</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_58872_needit_needit_u_what_needed">5de09d9adb93001058e04782399619f1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-04 06:02:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
